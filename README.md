@@ -1,6 +1,8 @@
 # Web3-User-Profiles-Part1
 ⚡ Code a beautiful Web3 User Profile Dashboard App with NextJS
 
+<img src="https://github.com/net2devcrypto/misc/blob/main/web3profiles.png" width="800" height="600">
+
 <h2>Web3 User Profiles Frontend</h2>
 
 
